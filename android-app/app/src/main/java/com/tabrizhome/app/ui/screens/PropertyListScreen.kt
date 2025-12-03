@@ -1,5 +1,6 @@
 package com.tabrizhome.app.ui.screens
 
+import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
