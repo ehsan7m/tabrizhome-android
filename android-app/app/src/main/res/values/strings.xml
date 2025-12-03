@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabrizHome</string>
+    <string name="search_placeholder">جست‌وجوی آگهی</string>
+    <string name="no_results">موردی یافت نشد</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="price_label">قیمت</string>
+    <string name="area_label">متراژ</string>
+    <string name="rooms_label">اتاق</string>
+    <string name="loading">در حال بارگذاری...</string>
+</resources>
